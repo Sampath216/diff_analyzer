@@ -1,0 +1,15 @@
+{
+  "name": "vehicle-data-diff-checker",
+  "version": "1.0.0",
+  "description": "A web application to compare XML and JavaScript vehicle data formats",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server . -p 3000 -o"
+  },
+  "keywords": ["diff", "vehicle", "xml", "javascript", "comparison"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
